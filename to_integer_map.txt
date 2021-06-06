@@ -1,0 +1,9 @@
+0: 'original': 'recordings/original-recordings',
+ 
+1: 'desktop': 'recordings/speaker-1-desktop-speakers',
+
+2: 'soundbox': 'recordings/speaker-2-soundbox', 
+
+3: 'soundbar': 'recordings/speaker-3-LG_soundbar', 
+
+4: 'tv': 'recordings/speaker-4-Phillips-tv'
